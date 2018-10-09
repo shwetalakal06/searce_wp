@@ -6,9 +6,9 @@ author: shweta
 layout: page
 guid: http://localhost/wordpress/?page_id=238
 ---
-							![background](wp-content/uploads/2018/09/background.jpg "background")
-<background>
+							
 
+<img src ="wp-content/uploads/2018/09/background.jpg" width="1903"/>
 
 # Google Vault
 
