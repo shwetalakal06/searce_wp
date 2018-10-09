@@ -14,4 +14,4 @@ guid: http://localhost/wordpress/?page_id=238
 
 ## Add archiving and eDiscovery to Google Apps
 
-<img width="268" height="124" src="http://localhost/wordpress/wp-content/uploads/2018/09/GoogleCloud_PremierPartner_Badge_150-e1536296491963.png" alt="" />
+<img width="268" height="124" src="wp-content/uploads/2018/09/GoogleCloud_PremierPartner_Badge_150-e1536296491963.png" alt="" />
