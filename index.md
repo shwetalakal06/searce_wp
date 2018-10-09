@@ -6,7 +6,7 @@ author: shweta
 layout: page
 guid: http://localhost/wordpress/?page_id=238
 ---
-											![background](http://localhost/wordpress/wp-content/uploads/2018/09/background.jpg "background")
+											![background](wp-content/uploads/2018/09/background.jpg "background")
 
 
 
